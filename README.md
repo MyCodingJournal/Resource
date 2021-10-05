@@ -1,4 +1,4 @@
-# links
+# Resource
 Useful resource regarding anything Tech in Australia
 
 ### Good Things Australia Digital Nation 2021
