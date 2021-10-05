@@ -1,5 +1,5 @@
 # Resource
-Useful resource regarding anything Tech in Australia
+resource for all things Tech in Australia
 
 ### Good Things Australia Digital Nation 2021
 ##### Bringing together the latest research to build a bigger picture of Australia's digital inclusion landscape.
